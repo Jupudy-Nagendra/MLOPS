@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/india/Desktop/Jio_Institute/MLOps/Project/Nagendra/MLOPS/mlruns/676113837923995950/3ebeb810367046cea57d75e0d5e6aa2e/artifacts
+end_time: 1742152422670
+entry_point_name: ''
+experiment_id: '676113837923995950'
+lifecycle_stage: active
+run_id: 3ebeb810367046cea57d75e0d5e6aa2e
+run_name: LinearRegression_default
+run_uuid: 3ebeb810367046cea57d75e0d5e6aa2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742152411785
+status: 3
+tags: []
+user_id: india

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/india/Desktop/Jio_Institute/MLOps/Project/Nagendra/MLOPS/mlruns/676113837923995950/c8ff5d4fc8264692b21b224ccab9e5a5/artifacts
+end_time: 1742152457514
+entry_point_name: ''
+experiment_id: '676113837923995950'
+lifecycle_stage: active
+run_id: c8ff5d4fc8264692b21b224ccab9e5a5
+run_name: ElasticNet
+run_uuid: c8ff5d4fc8264692b21b224ccab9e5a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742152450032
+status: 3
+tags: []
+user_id: india
