@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/india/Desktop/Jio_Institute/MLOps/Project/Nagendra/MLOPS/mlruns/676113837923995950/3dbf7b4eceb84606b1ecc63e1ccfd00f/artifacts
+end_time: 1742190393857
+entry_point_name: ''
+experiment_id: '676113837923995950'
+lifecycle_stage: active
+run_id: 3dbf7b4eceb84606b1ecc63e1ccfd00f
+run_name: XGBoost
+run_uuid: 3dbf7b4eceb84606b1ecc63e1ccfd00f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742190382523
+status: 3
+tags: []
+user_id: india

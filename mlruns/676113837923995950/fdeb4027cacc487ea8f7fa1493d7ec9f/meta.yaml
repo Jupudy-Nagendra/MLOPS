@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/india/Desktop/Jio_Institute/MLOps/Project/Nagendra/MLOPS/mlruns/676113837923995950/fdeb4027cacc487ea8f7fa1493d7ec9f/artifacts
+end_time: 1742190416240
+entry_point_name: ''
+experiment_id: '676113837923995950'
+lifecycle_stage: active
+run_id: fdeb4027cacc487ea8f7fa1493d7ec9f
+run_name: DecisionTree
+run_uuid: fdeb4027cacc487ea8f7fa1493d7ec9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742190398913
+status: 3
+tags: []
+user_id: india

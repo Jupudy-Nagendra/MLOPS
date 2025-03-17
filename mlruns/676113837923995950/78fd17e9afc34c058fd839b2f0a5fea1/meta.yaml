@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/india/Desktop/Jio_Institute/MLOps/Project/Nagendra/MLOPS/mlruns/676113837923995950/78fd17e9afc34c058fd839b2f0a5fea1/artifacts
+end_time: 1742190532396
+entry_point_name: ''
+experiment_id: '676113837923995950'
+lifecycle_stage: active
+run_id: 78fd17e9afc34c058fd839b2f0a5fea1
+run_name: GradientBoosting
+run_uuid: 78fd17e9afc34c058fd839b2f0a5fea1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742190513902
+status: 3
+tags: []
+user_id: india

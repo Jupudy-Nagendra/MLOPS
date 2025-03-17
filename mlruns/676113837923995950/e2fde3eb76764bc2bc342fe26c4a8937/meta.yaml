@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/india/Desktop/Jio_Institute/MLOps/Project/Nagendra/MLOPS/mlruns/676113837923995950/e2fde3eb76764bc2bc342fe26c4a8937/artifacts
+end_time: 1742190375168
+entry_point_name: ''
+experiment_id: '676113837923995950'
+lifecycle_stage: active
+run_id: e2fde3eb76764bc2bc342fe26c4a8937
+run_name: Ridge
+run_uuid: e2fde3eb76764bc2bc342fe26c4a8937
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742190370427
+status: 3
+tags: []
+user_id: india

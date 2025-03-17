@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/india/Desktop/Jio_Institute/MLOps/Project/Nagendra/MLOPS/mlruns/676113837923995950/f3ce422a57144cabab8cc6516f343de6/artifacts
+end_time: 1742190382516
+entry_point_name: ''
+experiment_id: '676113837923995950'
+lifecycle_stage: active
+run_id: f3ce422a57144cabab8cc6516f343de6
+run_name: Lasso
+run_uuid: f3ce422a57144cabab8cc6516f343de6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742190375184
+status: 3
+tags: []
+user_id: india

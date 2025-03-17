@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/india/Desktop/Jio_Institute/MLOps/Project/Nagendra/MLOPS/mlruns/676113837923995950/5e11b5df39614292bba70c3bb22202b5/artifacts
+end_time: 1742190513889
+entry_point_name: ''
+experiment_id: '676113837923995950'
+lifecycle_stage: active
+run_id: 5e11b5df39614292bba70c3bb22202b5
+run_name: RandomForest
+run_uuid: 5e11b5df39614292bba70c3bb22202b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742190416248
+status: 3
+tags: []
+user_id: india
