@@ -47,7 +47,7 @@ cd MLOps_MetroTrafficPrediction
 - **Run the FastAPI App:**
   ```bash
   cd MLOPS Project/notebooks
-  uvicorn Notebook2:app --host 127.0.0.1 --port 8000 --reload
+  uvicorn Gr-06_Notebook-2:app --host 127.0.0.1 --port 8000 --reload
   ```
 ### Notebook 3: User Interface with Streamlit
 - **Content:**  
@@ -57,7 +57,7 @@ cd MLOps_MetroTrafficPrediction
 - **Run the Streamlit UI:**
   ```bash
   cd MLOPS_Project/notebooks
-  streamlit run Notebook3.py
+  streamlit run Gr-06_Notebook-3.py
      ```
 ### Notebook 4: Model Monitoring (Data Drift Detection)
 - **Content:**  
